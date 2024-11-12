@@ -28,15 +28,24 @@ I'm an undergraduate in Computer and Communications Engineering with a passion f
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**General:**
+**General Skills:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-007396?style=flat-square&logo=java&logoColor=white) <!-- Use Java icon as a placeholder for OOP -->
+![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-OOP-007396?style=flat-square&logo=java&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-6DB33F?style=flat-square&logo=design&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-4CAF50?style=flat-square&logo=solid&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-00599C?style=flat-square&logo=data&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-FFA500?style=flat-square&logo=algorithms&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white)
+
+**Languages:**
+![English](https://img.shields.io/badge/-English-B2?style=flat-square&logo=googletranslate&logoColor=white)
+![German](https://img.shields.io/badge/-German-B1?style=flat-square&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -46,4 +55,3 @@ Feel free to reach out if you'd like to connect!
 - Email: [amrk.saada@gmail.com](mailto:amrk.saada@gmail.com)
 - LinkedIn: [linkedin.com/in/amrrkhaled](https://linkedin.com/in/amrrkhaled)
 - GitHub: [github.com/amrrkhaled](https://github.com/amrrkhaled)
-
