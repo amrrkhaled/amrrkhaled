@@ -59,8 +59,8 @@ My mission is to create **innovative web solutions** that merge **technology, de
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amr-khaled&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-khaled&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amrrkhaled&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
