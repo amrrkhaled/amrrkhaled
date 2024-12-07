@@ -1,57 +1,86 @@
-# Hi there, I'm Amr Khaled! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amr-khaled.amr-khaled" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/amrrkhaled)](https://linkedin.com/in/amrrkhaled)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/amrrkhaled)](https://github.com/amrrkhaled)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:amrk.saada@gmail.com)](mailto:amrk.saada@gmail.com)
-![Location](https://img.shields.io/badge/-Alexandria,%20Egypt-EA4335?style=flat-square&logo=googlemaps&logoColor=white)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Khaled!;" />
+</h1>
 
----
+<h3 align="center">A passionate full-stack developer from Egypt 🇪🇬</h3>
 
-### 👨‍💻 About Me
-I'm an undergraduate in Computer and Communications Engineering with a passion for problem-solving, software development, and cloud computing. My focus is on building scalable, secure applications with both frontend and backend experience.
+<br/>
 
----
+<p align="center">
+    <strong>"Turning Ideas into Impactful Code"</strong>
+</p>
 
-### 🛠 Skills
-
-**Languages:**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Technologies:**
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**General Skills:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-OOP-007396?style=flat-square&logo=java&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-6DB33F?style=flat-square&logo=design&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-4CAF50?style=flat-square&logo=solid&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-00599C?style=flat-square&logo=data&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-FFA500?style=flat-square&logo=algorithms&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white)
-
-**Languages:**
-![English](https://img.shields.io/badge/-English-B2?style=flat-square&logo=googletranslate&logoColor=white)
-![German](https://img.shields.io/badge/-German-B1?style=flat-square&logo=googletranslate&logoColor=white)
+<div align="center">
+    <a href="mailto:amrk.saada@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/amrrkhaled" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://amr-khaled.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+</div>
 
 ---
 
-### 📫 Contact
-Feel free to reach out if you'd like to connect!
+## 👨‍💻 About Me
 
-- Email: [amrk.saada@gmail.com](mailto:amrk.saada@gmail.com)
-- LinkedIn: [linkedin.com/in/amrrkhaled](https://linkedin.com/in/amrrkhaled)
-- GitHub: [github.com/amrrkhaled](https://github.com/amrrkhaled)
+Hello! I'm **Amr Khaled**, a Full Stack Developer based in Egypt 🇪🇬. My journey is centered on crafting web applications that combine **scalability**, **performance**, and **a seamless user experience**.
+
+### 🌟 Skills & Focus Areas:
+- **Frontend**: React, Next.js, JavaFX, Bootstrap, Tailwind, Material-UI
+- **Backend**: Node.js, Express, Python, Java
+- **Cloud & DevOps**: AWS Cloud (EC2, S3, Lambda, RDS), CI/CD Pipelines
+- **Databases**: MongoDB, MySQL, Firebase
+- **Others**: Git, Figma, VS Code, RESTful APIs
+
+---
+
+## 🌍 Mission
+
+My mission is to create **innovative web solutions** that merge **technology, design**, and **user experience**, while constantly evolving and exploring new possibilities in the tech world.
+
+---
+
+
+## 🛠️ Languages, Frameworks, and Tools
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,aws" />
+    <img src="https://skillicons.dev/icons?i=javafx" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=amr-khaled&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-khaled&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to reach out or check out my work:
+
+- 📧 [Gmail](mailto:amrk.saada@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/amrrkhaled)
+- 🌐 [Portfolio](https://amr-khaled.github.io)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
