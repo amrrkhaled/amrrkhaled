@@ -31,7 +31,7 @@
 Hello! I'm **Amr Khaled**, a Full Stack Developer based in Egypt 🇪🇬. My journey is centered on crafting web applications that combine **scalability**, **performance**, and **a seamless user experience**.
 
 ### 🌟 Skills & Focus Areas:
-- **Frontend**: React, Next.js, JavaFX, Bootstrap, Tailwind, Material-UI
+- **Frontend**: React, Next.js, JavaFX, Bootstrap, Material-UI
 - **Backend**: Node.js, Express, Python, Java
 - **Cloud & DevOps**: AWS Cloud (EC2, S3, Lambda, RDS), CI/CD Pipelines
 - **Databases**: MongoDB, MySQL, Firebase
@@ -49,7 +49,7 @@ My mission is to create **innovative web solutions** that merge **technology, de
 ## 🛠️ Languages, Frameworks, and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,aws" />
     <img src="https://skillicons.dev/icons?i=javafx" />
 </div>
