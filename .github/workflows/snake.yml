@@ -32,7 +32,7 @@ jobs:
         id: generate-snake
         uses: ./  # This assumes your action is in the same repo
         with:
-          github_user_name: marwan911e
+          github_user_name: amrrkhaled
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
