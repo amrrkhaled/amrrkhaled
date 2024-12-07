@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Khaled!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack developer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Software Engineer from Egypt 🇪🇬</h3>
 
 <br/>
 
 <p align="center">
-    <strong>"Turning Ideas into Impactful Code"</strong>
+    <strong>"Solving Problems and Creating Impactful Solutions through Code"</strong>
 </p>
 
 <div align="center">
@@ -28,29 +28,28 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Amr Khaled**, a Full Stack Developer based in Egypt 🇪🇬. My journey is centered on crafting web applications that combine **scalability**, **performance**, and **a seamless user experience**.
+Hello! I'm **Amr Khaled**, a **Software Engineer** based in Egypt 🇪🇬. I specialize in solving complex problems and building robust solutions. I have strong expertise in both **backend** and **frontend** technologies, along with a solid understanding of **cloud infrastructure**.
 
 ### 🌟 Skills & Focus Areas:
 - **Frontend**: React, Next.js, JavaFX, Bootstrap, Material-UI
-- **Backend**: Node.js, Express, Python, Java
+- **Backend**: Node.js, Express, Flask, Django, Java
 - **Cloud & DevOps**: AWS Cloud (EC2, S3, Lambda, RDS), CI/CD Pipelines
-- **Databases**: MongoDB, MySQL, Firebase
-- **Others**: Git, Figma, VS Code, RESTful APIs
+- **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
+- **Others**: Git, Figma, VS Code, RESTful APIs, Problem Solving
 
 ---
 
 ## 🌍 Mission
 
-My mission is to create **innovative web solutions** that merge **technology, design**, and **user experience**, while constantly evolving and exploring new possibilities in the tech world.
+My mission is to provide **innovative and scalable solutions** by leveraging my expertise in **backend, frontend**, and **cloud technologies**, while focusing on solving real-world problems and delivering seamless user experiences.
 
 ---
-
 
 ## 🛠️ Languages, Frameworks, and Tools
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,postgresql,aws" />
     <img src="https://skillicons.dev/icons?i=javafx" />
 </div>
 
