@@ -62,7 +62,15 @@ I aim to develop **scalable, high-performance applications** that solve real-wor
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=amrrkhaled&show_icons=true&theme=github_dark&hide=stars" alt="Amr's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrkhaled&theme=github-dark&hide_border=true&area=true" width="80%" alt="Contribution Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amrrkhaled&theme=github-dark&no-frame=true&margin-w=10&row=2&column=3" alt="GitHub Trophies" />
+
+
 </div>
+
+
+
+
 
 
 ---
