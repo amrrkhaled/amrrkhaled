@@ -1,55 +1,57 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amr-khaled.amr-khaled" />
+<img src="https://komarev.com/ghpvc/?username=amrrkhaled&label=Profile+Views&color=2d333b&style=for-the-badge" alt="Profile Views" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Khaled!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
 <p align="center">
-    <strong>"Solving Problems and Creating Impactful Solutions through Code"</strong>
+    <strong>"Building Efficient Solutions and Driving Impact Through Code"</strong>
 </p>
 
 <div align="center">
     <a href="mailto:amrk.saada@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/amrrkhaled" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://amr-khaled.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-    </a>
+    <a href="https://github.com/amrrkhaled" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+   
+
 </div>
 
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Amr Khaled**, a **Software Engineer** based in Egypt 🇪🇬. I specialize in solving complex problems and building robust solutions. I have strong expertise in both **backend** and **frontend** technologies, along with a solid understanding of **cloud infrastructure**.
-
-### 🌟 Skills & Focus Areas:
-- **Frontend**: React, Next.js, JavaFX, Bootstrap, Material-UI
-- **Backend**: Node.js, Express, Flask, Django, Java
-- **Cloud & DevOps**: AWS Cloud (EC2, S3, Lambda, RDS), CI/CD Pipelines
-- **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-- **Others**: Git, Figma, VS Code, RESTful APIs, Problem Solving
 
 ---
 
-## 🌍 Mission
+## 👨‍💻 About Me  
 
-My mission is to provide **innovative and scalable solutions** by leveraging my expertise in **backend, frontend**, and **cloud technologies**, while focusing on solving real-world problems and delivering seamless user experiences.
+Hello! I'm **Amr Khaled**, a **Software Engineer** from Egypt 🇪🇬. I thrive on tackling complex problems and building efficient, scalable solutions. With a strong foundation in **backend development, cloud infrastructure, and frontend technologies**, I enjoy creating seamless digital experiences.  
+
+### 🚀 Tech Stack & Expertise  
+- **Frontend**: React.js, Next.js, JavaFX, Bootstrap, Material-UI  
+- **Backend**: Node.js, Express.js, Flask, Django, Java  
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines  
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase  
+- **Other Tools**: Git, RESTful APIs, Figma, VS Code, Problem Solving  
 
 ---
 
+## 🌍 My Mission  
+
+I aim to develop **scalable, high-performance applications** that solve real-world problems. By leveraging my expertise in **backend, frontend, and cloud technologies**, I strive to build solutions that enhance user experience and drive innovation.  
+
+---
 ## 🛠️ Languages, Frameworks, and Tools
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,postgresql,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,java,mysql,postgresql,sequelize,prisma,aws" />
     <img src="https://skillicons.dev/icons?i=javafx" />
 </div>
 
@@ -58,19 +60,13 @@ My mission is to provide **innovative and scalable solutions** by leveraging my 
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amrrkhaled&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amrrkhaled&show_icons=true&theme=github_dark&hide=stars" alt="Amr's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
+
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -82,4 +78,4 @@ Feel free to reach out or check out my work:
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
