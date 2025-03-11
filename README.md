@@ -61,7 +61,7 @@ I aim to develop **scalable, high-performance applications** that solve real-wor
 
 <div align="center">
    <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api?username=amrrkhaled&show_icons=true&theme=light&hide=stars&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=true" alt="Amr's GitHub Stats" width="35%" height="200px"/>
-    <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=light&count_private=true" alt="Top Languages" width="35%" height="200px"/>
+    <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=light&count_private=true&exclude_repo=github-readme-stats" alt="Top Languages" width="35%" height="200px"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrkhaled&theme=github-dark&count_private=true&hide_border=true&area=true&custom_title=Contribution%20Graph" width="80%" alt="Contribution Graph" />
     <img src="https://github-profile-trophy.vercel.app/?username=amrrkhaled&theme=light&no-frame=true&margin-w=10&row=2&column=3" alt="GitHub Trophies" />
 
