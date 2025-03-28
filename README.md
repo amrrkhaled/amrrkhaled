@@ -31,9 +31,11 @@
 
 ## 👨‍💻 About Me  
 
-Hello! I'm **Amr Khaled**, a **Software Engineer** from Egypt 🇪🇬. I thrive on tackling complex problems and building efficient, scalable solutions. With a strong foundation in **backend development, cloud infrastructure, and frontend technologies**, I enjoy creating seamless digital experiences.  
+Hello! I'm Amr Khaled, a Software Engineer from Egypt 🇪🇬. I am passionate about solving complex problems and building high-performance, scalable systems. With expertise in backend development, cloud infrastructure, and frontend technologies, I focus on designing robust architectures and delivering seamless digital experiences. I thrive in professional environments, continuously improving my skills in problem-solving, software design, and system optimization to create impactful solutions.
 
-### 🚀 Tech Stack & Expertise  
+---
+## 🚀 Tech Stack & Expertise  
+
 - **Frontend**: React.js, Next.js, JavaFX, Bootstrap, Material-UI  
 - **Backend**: Node.js, Express.js, Flask, Django, Java  
 - **Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines  
@@ -42,11 +44,6 @@ Hello! I'm **Amr Khaled**, a **Software Engineer** from Egypt 🇪🇬. I thrive
 
 ---
 
-## 🌍 My Mission  
-
-I aim to develop **scalable, high-performance applications** that solve real-world problems. By leveraging my expertise in **backend, frontend, and cloud technologies**, I strive to build solutions that enhance user experience and drive innovation.  
-
----
 ## 🛠️ Languages, Frameworks, and Tools
 
 <div align="center">
@@ -60,13 +57,16 @@ I aim to develop **scalable, high-performance applications** that solve real-wor
 ## 📈 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api?username=amrrkhaled&show_icons=true&theme=light&hide=stars&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=true" alt="Amr's GitHub Stats" width="35%" height="200px"/>
-    <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=light&count_private=true&exclude_repo=github-readme-stats" alt="Top Languages" width="35%" height="200px"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrkhaled&theme=github-dark&count_private=true&hide_border=true&area=true&custom_title=Contribution%20Graph" width="80%" alt="Contribution Graph" />
-    <img src="https://github-profile-trophy.vercel.app/?username=amrrkhaled&theme=light&no-frame=true&margin-w=10&row=2&column=3" alt="GitHub Trophies" />
-
-
+   <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api?username=amrrkhaled&show_icons=true&theme=tokyonight&hide=stars&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=true" alt="Amr's GitHub Stats" width="45%" height="180px"/>
+   <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api/top-langs/?username=amrrkhaled&layout=compact&theme=tokyonight&count_private=true&exclude_repo=github-readme-stats" alt="Top Languages" width="45%" height="180px"/>
+   <br><br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrkhaled&theme=tokyo-night&count_private=true&hide_border=true&area=true&custom_title=Contribution%20Graph" width="80%" alt="Contribution Graph" />
+   <br><br>
+   <img src="https://github-profile-trophy.vercel.app/?username=amrrkhaled&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=5" alt="GitHub Trophies" />
 </div>
+
+
+
 
 
 
