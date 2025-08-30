@@ -1,11 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=amrrkhaled&label=Profile+Views&color=2d333b&style=for-the-badge" alt="Profile Views" />
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Khaled!;" />
 </h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer Intern @ Blink22 | CCE Student @ Alexandria Univ.</h3>
 
 <br/>
 
@@ -22,39 +21,43 @@
     </a>
     <a href="https://github.com/amrrkhaled" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-   
-
+    </a>
 </div>
-
 
 ---
 
 ## 👨‍💻 About Me  
 
-Hello! I'm Amr Khaled, a Software Engineer from Egypt 🇪🇬. I am passionate about solving complex problems and building high-performance, scalable systems. With expertise in backend development, cloud infrastructure, and frontend technologies, I focus on designing robust architectures and delivering seamless digital experiences. I thrive in professional environments, continuously improving my skills in problem-solving, software design, and system optimization to create impactful solutions.
+Hi! I'm **Amr Khaled**, a **Software Engineer Intern @ Blink22** and **Computer & Communication Engineering student at Alexandria University**.  
 
----
-## 🚀 Tech Stack & Expertise  
+I specialize in **backend development, Android engineering, cloud computing, and scalable system design**.  
+I’m passionate about **problem-solving**, **clean architecture**, and **DevOps practices** that ensure performance and reliability.  
 
-- **Frontend**: React.js, Next.js, JavaFX, Bootstrap, Material-UI  
-- **Backend**: Node.js, Express.js, Flask, Django, Java  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines  
-- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase  
-- **Other Tools**: Git, RESTful APIs, Figma, VS Code, Problem Solving  
+💡 My long-term goal: Become a **Software Architect** and design impactful large-scale systems.  
 
 ---
 
-## 🛠️ Languages, Frameworks, and Tools
+## 🛠️ Tech Stack  
+
+**Frontend:** React.js, Next.js, JavaFX, Bootstrap, Material-UI  
+**Backend:** Node.js, Express.js, Flask, Django, Java  
+**Mobile:** Kotlin, Android (Fragments, ViewModels, LiveData, Hilt, Coroutines)  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines, Docker  
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
+**Other Tools:** Git, REST APIs, Figma, VS Code, Problem Solving  
+
+---
+
+## ⚡ Languages, Frameworks & Tools  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,java,mysql,postgresql,sequelize,prisma,aws" />
-    <img src="https://skillicons.dev/icons?i=javafx" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,java,kotlin,androidstudio,mysql,postgresql,sequelize,prisma" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <div align="center">
    <img src="https://github-readme-stats-git-main-amr-khaleds-projects-9991cbdd.vercel.app/api?username=amrrkhaled&show_icons=true&theme=tokyonight&hide=stars&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true&hide_rank=true" alt="Amr's GitHub Stats" width="45%" height="180px"/>
@@ -65,25 +68,24 @@ Hello! I'm Amr Khaled, a Software Engineer from Egypt 🇪🇬. I am passionate 
    <img src="https://github-profile-trophy.vercel.app/?username=amrrkhaled&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=5" alt="GitHub Trophies" />
 </div>
 
+---
 
+## 📚 Currently Learning  
 
-
-
-
-
-
+- Advanced **AWS Cloud Architecture & DevOps Pipelines**  
+- **Android Development** with Jetpack components & Coroutines  
+- **System Design** & Software Architecture Patterns  
+- **Problem Solving** (NeetCode & AlgoExpert)  
 
 ---
 
+## 🤝 Let's Connect!  
 
-## 🤝 Let's Connect!
-
-Feel free to reach out or check out my work:
-
-- 📧 [Gmail](mailto:amrk.saada@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/amrrkhaled)
-- 🌐 [Portfolio](https://amr-khaled.github.io)
+- 📧 [Gmail](mailto:amrk.saada@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/amrrkhaled)  
+- 🌐 [Portfolio](https://amr-khaled.github.io)  
 
 ---
 
-
+⚡ **Fun Fact:** I debug with ☕ in hand and a smile.  
+💡 **Motto:** *"Code for impact, not just for deployment."*  
