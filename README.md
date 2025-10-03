@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Khaled!;" />
 </h1>
 
-<h3 align="center">Software Engineer Intern @ Blink22 | CCE Student @ Alexandria Univ.</h3>
+<h3 align="center">Software Engineer @ Blink22 | CCE Student @ Alexandria Univ.</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me  
 
-Hi! I'm **Amr Khaled**, a **Software Engineer Intern @ Blink22** and **Computer & Communication Engineering student at Alexandria University**.  
+Hi! I'm **Amr Khaled**, a **Software Engineer @ Blink22** and **Computer & Communication Engineering student at Alexandria University**.  
 
 I specialize in **backend development, Android engineering, cloud computing, and scalable system design**.  
 I’m passionate about **problem-solving**, **clean architecture**, and **DevOps practices** that ensure performance and reliability.  
